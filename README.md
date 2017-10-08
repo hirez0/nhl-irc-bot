@@ -77,20 +77,38 @@ stuff it does:
   
   
 [01:54:17] <Kevin_Weekes> Current standings    (Eastern Conference)
+
 [01:54:17] <Kevin_Weekes> 1.  Hurricanes       2 pts    1 W - 0 L - 0 OT/SO L   (1 GP)
+
 [01:54:17] <Kevin_Weekes> 2.  Panthers         2 pts    1 W - 0 L - 0 OT/SO L   (1 GP)
+
 [01:54:17] <Kevin_Weekes> 3.  Capitals         2 pts    1 W - 0 L - 0 OT/SO L   (1 GP)
+
 [01:54:17] <Kevin_Weekes> 4.  Islanders        2 pts    1 W - 0 L - 0 OT/SO L   (1 GP)
+
 [01:54:18] <Kevin_Weekes> 5.  Flyers           2 pts    1 W - 0 L - 0 OT/SO L   (1 GP)
+
 [01:54:18] <Kevin_Weekes> 6.  Maple Leafs      2 pts    1 W - 0 L - 0 OT/SO L   (1 GP)
+
 [01:54:18] <Kevin_Weekes> 7.  Red Wings        2 pts    1 W - 0 L - 0 OT/SO L   (1 GP)
+
 [01:54:18] <Kevin_Weekes> 8.  Devils           2 pts    1 W - 0 L - 0 OT/SO L   (1 GP)
+
 [01:54:18] <Kevin_Weekes> ==============================
+
 [01:54:19] <Kevin_Weekes> 9.  Penguins         2 pts    1 W - 0 L - 0 OT/SO L   (1 GP)
+
 [01:54:19] <Kevin_Weekes> 10. Senators         1 pts    0 W - 0 L - 1 OT/SO L   (1 GP)
+
 [01:54:19] <Kevin_Weekes> 11. Bruins           0 pts    0 W - 0 L - 0 OT/SO L   (0 GP)
+
 [01:54:20] <Kevin_Weekes> 12. Canadiens        0 pts    0 W - 1 L - 0 OT/SO L   (1 GP)
+
 [01:54:21] <Kevin_Weekes> 13. Rangers          0 pts    0 W - 1 L - 0 OT/SO L   (1 GP)
+
+
 [01:54:22] <Kevin_Weekes> 14. Blue Jackets     0 pts    0 W - 1 L - 0 OT/SO L   (1 GP)
+
 [01:54:23] <Kevin_Weekes> 15. Sabres           0 pts    0 W - 1 L - 0 OT/SO L   (1 GP)
+
 [01:54:24] <Kevin_Weekes> 16. Lightning        0 pts    0 W - 1 L - 0 OT/SO L   (1 GP)
