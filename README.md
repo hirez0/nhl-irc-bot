@@ -1,17 +1,20 @@
 
 #NHLBOT #IRCNHL #IRCNHLBOT
-Put back together by: hirez,  original credit goes to Sabotaged
-irc.synirc.net  - #NHL  
+-\
+Put back together by: hirez,  original credit goes to Sabotaged-
+-\
+ #NHL  
 
------------------
+-\
 how to install: change the .config files to your irc server/channel of liking and recompile  (yes I know its the stupidest thing in the world you have to recompile to do this step)
-----------------------
+-\
 
+---
 Stuff it does:
-#nhl
-[22:17:50] <hirezgg> !ptop g
- 
+-\
 
+[22:17:50] hirez !ptop g
+ 
 [22:17:51] <Kevin_Weekes> 1. Wayne Simmonds: 3 
 
 [22:17:51] <Kevin_Weekes> 2. Alex Ovechkin: 3 
@@ -25,7 +28,7 @@ Stuff it does:
 
 [22:18:04] <hirez> !gamestat Ottawa
  
-[22:18:05] <Dave_Strader> [Senators/Red Wings] [Most Goals: D. Brassard, 1] [Most Assists: D. Phaneuf (A), 1] [Top +/-: D. Brassard, 1] [Bot +/-: A. Burrows, -1] [Most PIM: J. Ericsson, 4] [Most TOI: C. Ceci, 28:21] [Least TOI: L. Witkowski, 4:36]
+[22:18:05] <Kevin_Weekes> [Senators/Red Wings] [Most Goals: D. Brassard, 1] [Most Assists: D. Phaneuf (A), 1] [Top +/-: D. Brassard, 1] [Bot +/-: A. Burrows, -1] [Most PIM: J. Ericsson, 4] [Most TOI: C. Ceci, 28:21] [Least TOI: L. Witkowski, 4:36]
 
 [22:18:26] <Kevin_Weekes> [Canucks/Oilers] Goal: EDM RUSSELL,K. 28' Wrist (1:08 1st). Score: 1-0 Oilers
 
@@ -39,21 +42,19 @@ Stuff it does:
 
 [22:32:35] <Kevin_Weekes> [Canucks/Oilers] Goal: VAN HORVAT,B. 0' Wrist (7:35 1st). Score: 1-1 tie
 
-[22:32:44] <Dave_Strader> [Canucks/Oilers] Revised info: Goal: VAN HORVAT,B.; HUTTON,B. 9' Wrist (7:35 1st). Score: 1-1 tie
+[22:32:44] <Kevin_Weekes> [Canucks/Oilers] Revised info: Goal: VAN HORVAT,B.; HUTTON,B. 9' Wrist (7:35 1st). Score: 1-1 tie
 
-[22:32:57] <Dave_Strader> [Ducks/Flyers] Goal: ANA VERMETTE,A. 12'  (12:13 1st). Score: 1-1 tie
+[22:32:57] <Kevin_Weekes> [Ducks/Flyers] Goal: ANA VERMETTE,A. 12'  (12:13 1st). Score: 1-1 tie
 
-[22:33:38] <Dave_Strader> [Ducks/Flyers] Revised info: Goal: ANA VERMETTE,A.; KASE,O. 13' Wrist (12:13 1st). Score: 1-1 tie
+[22:33:38] <Kevin_Weekes> [Ducks/Flyers] Revised info: Goal: ANA VERMETTE,A.; KASE,O. 13' Wrist (12:13 1st). Score: 1-1 tie
 
-[22:33:43] <Dave_Strader> [Flames/Jets] Goal: WPG TANEV,B. 18'  (8:35 1st). Score: 1-0 Jets
+[22:33:43] <Kevin_Weekes> [Flames/Jets] Goal: WPG TANEV,B. 18'  (8:35 1st). Score: 1-0 Jets
 
-[22:34:09] <Dave_Strader> [Flames/Jets] Revised info: Goal: WPG TANEV,B. 18' Wrist (8:35 1st). Score: 1-0 Jets
+[22:34:09] <Kevin_Weekes> [Flames/Jets] Revised info: Goal: WPG TANEV,B. 18' Wrist (8:35 1st). Score: 1-0 Jets
 
 [22:56:22] <Kevin_Weekes> [Blues/Stars] Game Over. 4-2 Blues (Final)
 
 [22:57:01] <Kevin_Weekes> [Blackhawks/Blue Jackets] Goal: CHI PANIK,R. 18' Wrist (14:05 3rd). Score: 6-1 Blackhawks
-
-[23:03:20] * Darren_Pang is now known as Kevin_Weekes
 
 [23:05:14] <Kevin_Weekes> [Blackhawks/Blue Jackets] Game Over. 5-1 Blackhawks (Final)
 
@@ -61,7 +62,7 @@ Stuff it does:
 
 [23:16:29] <Kevin_Weekes> [Sharks/Kings] Goal: L.A KOPITAR,A. 31' Snap (19:52 1st). Score: 3-1 Kings
   
-  
+ 
   [01:53:10] <hirezgg> !ptop assists
   
 [01:53:11] <Kevin_Weekes> 1. Ryan Hartman: 4 
