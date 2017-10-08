@@ -3,40 +3,41 @@
 Put back together by: hirez,  original credit goes to Sabotaged
 irc.synirc.net  - #NHL  
 
-how to install: change the .config files to your irc server/channel of liking and recompile  (yes I know its the stupidest thing in the world you have to recompile to do this step_
-stuff it does:
+-----------------
+how to install: change the .config files to your irc server/channel of liking and recompile  (yes I know its the stupidest thing in the world you have to recompile to do this step)
+----------------------
 
+Stuff it does:
+#nhl
 [22:17:50] <hirezgg> !ptop g
  
 
-[22:17:51] <Dave_Strader> 1. Wayne Simmonds: 3 
+[22:17:51] <Kevin_Weekes> 1. Wayne Simmonds: 3 
 
-[22:17:51] <Dave_Strader> 2. Alex Ovechkin: 3 
+[22:17:51] <Kevin_Weekes> 2. Alex Ovechkin: 3 
 
-[22:17:51] <Dave_Strader> 3. Connor Mcdavid: 3 
+[22:17:51] <Kevin_Weekes> 3. Connor Mcdavid: 3 
 
-[22:17:51] <Dave_Strader> 4. Brandon Saad: 3 
+[22:17:51] <Kevin_Weekes> 4. Brandon Saad: 3 
 
-[22:17:52] <Dave_Strader> 5. Corey Perry: 2 
+[22:17:52] <Kevin_Weekes> 5. Corey Perry: 2 
 
 
-
-[22:18:00] <Dave_Strader> [Blues/Stars] Goal: DAL KLINGBERG,J. 58' Slap (2:48 3rd). Score: 3-1 Blues
-
-[22:18:04] <hirezgg> !gamestat Ottawa
+[22:18:04] <hirez> !gamestat Ottawa
+ 
 [22:18:05] <Dave_Strader> [Senators/Red Wings] [Most Goals: D. Brassard, 1] [Most Assists: D. Phaneuf (A), 1] [Top +/-: D. Brassard, 1] [Bot +/-: A. Burrows, -1] [Most PIM: J. Ericsson, 4] [Most TOI: C. Ceci, 28:21] [Least TOI: L. Witkowski, 4:36]
 
-[22:18:26] <Dave_Strader> [Canucks/Oilers] Goal: EDM RUSSELL,K. 28' Wrist (1:08 1st). Score: 1-0 Oilers
+[22:18:26] <Kevin_Weekes> [Canucks/Oilers] Goal: EDM RUSSELL,K. 28' Wrist (1:08 1st). Score: 1-0 Oilers
 
-[22:18:35] <Dave_Strader> [Blues/Stars] Revised info: Goal: DAL KLINGBERG,J.; RADULOV,A. 58' Slap (2:48 3rd). Score: 3-1 Blues
+[22:18:35] <Kevin_Weekes> [Blues/Stars] Revised info: Goal: DAL KLINGBERG,J.; RADULOV,A. 58' Slap (2:48 3rd). Score: 3-1 Blues
 
-[22:19:11] <Dave_Strader> [Canucks/Oilers] Revised info: Goal: EDM RUSSELL,K.; KASSIAN,Z.; LUCIC,M. 28' Wrist (1:08 1st). Score: 1-0 Oilers
+[22:19:11] <Kevin_Weekes> [Canucks/Oilers] Revised info: Goal: EDM RUSSELL,K.; KASSIAN,Z.; LUCIC,M. 28' Wrist (1:08 1st). Score: 1-0 Oilers
 
-[22:23:31] <Dave_Strader> [Ducks/Flyers] Goal: PHI PATRICK,N. 34' Slap (8:19 1st). Score: 1-0 Flyers
+[22:23:31] <Kevin_Weekes> [Ducks/Flyers] Goal: PHI PATRICK,N. 34' Slap (8:19 1st). Score: 1-0 Flyers
 
-[22:24:14] <Dave_Strader> [Ducks/Flyers] Revised info: Goal: PHI PROVOROV,I.; PATRICK,N. 27' Slap (8:19 1st). Score: 1-0 Flyers
+[22:24:14] <Kevin_Weekes> [Ducks/Flyers] Revised info: Goal: PHI PROVOROV,I.; PATRICK,N. 27' Slap (8:19 1st). Score: 1-0 Flyers
 
-[22:32:35] <Dave_Strader> [Canucks/Oilers] Goal: VAN HORVAT,B. 0' Wrist (7:35 1st). Score: 1-1 tie
+[22:32:35] <Kevin_Weekes> [Canucks/Oilers] Goal: VAN HORVAT,B. 0' Wrist (7:35 1st). Score: 1-1 tie
 
 [22:32:44] <Dave_Strader> [Canucks/Oilers] Revised info: Goal: VAN HORVAT,B.; HUTTON,B. 9' Wrist (7:35 1st). Score: 1-1 tie
 
@@ -48,9 +49,9 @@ stuff it does:
 
 [22:34:09] <Dave_Strader> [Flames/Jets] Revised info: Goal: WPG TANEV,B. 18' Wrist (8:35 1st). Score: 1-0 Jets
 
-[22:56:22] <Darren_Pang> [Blues/Stars] Game Over. 4-2 Blues (Final)
+[22:56:22] <Kevin_Weekes> [Blues/Stars] Game Over. 4-2 Blues (Final)
 
-[22:57:01] <Darren_Pang> [Blackhawks/Blue Jackets] Goal: CHI PANIK,R. 18' Wrist (14:05 3rd). Score: 6-1 Blackhawks
+[22:57:01] <Kevin_Weekes> [Blackhawks/Blue Jackets] Goal: CHI PANIK,R. 18' Wrist (14:05 3rd). Score: 6-1 Blackhawks
 
 [23:03:20] * Darren_Pang is now known as Kevin_Weekes
 
@@ -70,7 +71,6 @@ stuff it does:
 [01:53:11] <Kevin_Weekes> 3. Evgeni Malkin: 3 
 
 [01:53:12] <Kevin_Weekes> 4. Jakub Voracek: 3 
-
 
 [01:53:12] <Kevin_Weekes> 5. Shayne Gostisbehere: 3 
 
