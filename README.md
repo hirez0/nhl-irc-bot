@@ -3,10 +3,11 @@
 Put back together by: hirez,  original credit goes to Sabotaged
 irc.synirc.net  - #NHL  
 
+how to install: change the .config files to your irc server/channel of liking and recompile  (yes I know its the stupidest thing in the world you have to recompile to do this step_
 stuff it does:
 
 [22:17:50] <hirezgg> !ptop g
-  
+ 
 
 [22:17:51] <Dave_Strader> 1. Wayne Simmonds: 3 
 
