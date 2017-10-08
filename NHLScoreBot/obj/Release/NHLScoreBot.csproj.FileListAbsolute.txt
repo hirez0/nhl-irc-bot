@@ -1,0 +1,14 @@
+D:\nhlbot\NHLScoreBot\bin\Release\NHLScoreBot.exe.config
+D:\nhlbot\NHLScoreBot\bin\Release\nhlstatsdb
+D:\nhlbot\NHLScoreBot\bin\Release\teams.xml
+D:\nhlbot\NHLScoreBot\bin\Release\NHLScoreBot.exe
+D:\nhlbot\NHLScoreBot\bin\Release\NHLScoreBot.pdb
+D:\nhlbot\NHLScoreBot\bin\Release\DateTimeEnglishParser.dll
+D:\nhlbot\NHLScoreBot\bin\Release\Meebey.SmartIrc4net.dll
+D:\nhlbot\NHLScoreBot\bin\Release\Newtonsoft.Json.dll
+D:\nhlbot\NHLScoreBot\bin\Release\System.Data.SQLite.dll
+D:\nhlbot\NHLScoreBot\bin\Release\System.Data.SQLite.Linq.dll
+D:\nhlbot\NHLScoreBot\bin\Release\System.Data.SQLite.xml
+D:\nhlbot\NHLScoreBot\obj\Release\NHLScoreBot.csprojResolveAssemblyReference.cache
+D:\nhlbot\NHLScoreBot\obj\Release\NHLScoreBot.exe
+D:\nhlbot\NHLScoreBot\obj\Release\NHLScoreBot.pdb

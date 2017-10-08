@@ -1,0 +1,88 @@
+<teams>
+  <league name="nhl">
+    <teams>
+      <conference name="Western">
+        <division name="Central">
+          <team city="Nashville" name="Predators">NAS</team>
+          <team city="Nashville" name="Predators">NSH</team>
+          <team city="Chicago" name="Blackhawks">CHI</team>
+          <team city="St. Louis" name="Blues">STL</team>
+          <team city="St Louis" name="Blues">STL</team>
+          <team city="Winnipeg" name="Jets">WIN</team>
+          <team city="Minnesota" name="Wild">MIN</team>
+          <team city="Colorado" name="Avalanche">COL</team>
+          <team city="Dallas" name="Stars">DAL</team>
+        </division>
+        <division name="Pacific">
+          <team city="Calgary" name="Flames">CGY</team>
+          <team city="Vancouver" name="Canucks">VAN</team>
+          <team city="Edmonton" name="Oilers">EDM</team>
+          <team city="San Jose" name="Sharks">SAN</team>
+          <team city="San Jose" name="Sharks">SJS</team>
+          <team city="Anaheim" name="Ducks">ANA</team>
+          <team city="Arizona" name="Coyotes">ARI</team>
+          <team city="Los Angeles" name="Kings">LOS</team>
+          <team city="Lost Vegas" name="Golden Vaginas">VAG</team>
+        </division>
+      </conference>
+
+      <conference name="Eastern">
+        <division name="Atlantic">
+          <team city="Detroit" name="Red Wings">DET</team>
+          <team city="Boston" name="Bruins">BOS</team>
+          <team city="Tampa Bay" name="Lightning">TAM</team>
+          <team city="Tampa Bay" name="Lightning">TBL</team>
+          <team city="Montreal" name="Canadiens">MON</team>
+          <team city="Montreal" name="Canadiens">MTL</team>
+          <team city="Toronto" name="Maple Leafs">TOR</team>
+          <team city="Ottawa" name="Senators">OTT</team>
+          <team city="Buffalo" name="Sabres">BUF</team>
+          <team city="Florida" name="Panthers">FLO</team>
+          <team city="Florida" name="Panthers">FLA</team>
+        </division>
+        <division name="Metropolitan">
+          <team city="Pittsburgh" name="Penguins">PIT</team>
+          <team city="New Jersey" name="Devils">NJD</team>
+          <team city="New York" name="Rangers">NYR</team>
+          <team city="New York" name="NY Rangers">NYR</team>
+          <team city="Columbus" name="Blue Jackets">CBJ</team>
+          <team city="Philadelphia" name="Flyers">PHI</team>
+          <team city="New York" name="Islanders">NYI</team>
+          <team city="New York" name="NY Islanders">NYI</team>
+          <team city="Carolina" name="Hurricanes">CAR</team>
+          <team city="Washington" name="Capitals">WAS</team>
+          <team city="Washington" name="Capitals">WSH</team>
+        </division>
+      </conference>
+
+      <conference name="Nonexistent">
+        <division name="Nonexistent">
+          <team city="Hartford" name="Whalers">HAR</team>
+          <team city="Minnesota" name="North Stars">MNS</team>
+          <team city="Quebec" name="Nordiques">QUE</team>
+          <team city="Atlanta" name="Thrashers">ATL</team>
+        </division>
+      </conference>
+    </teams>
+  </league>
+  <league name="olympics">
+    <teams>
+      <conference name="olympics">
+        <division name="olympics">
+          <team city="" name="United States">USA</team>
+          <team city="" name="Canada">CAN</team>
+          <team city="" name="Russia">RUS</team>
+          <team city="" name="Finland">FIN</team>
+          <team city="" name="Sweden">SWE</team>
+          <team city="" name="Czech Republic">CZE</team>
+          <team city="" name="Switzerland">SWI</team>
+          <team city="" name="Norway">NOR</team>
+          <team city="" name="Latvia">LAT</team>
+          <team city="" name="Belarus">BEL</team>
+          <team city="" name="Germany">GER</team>
+          <team city="" name="Slovakia">SLO</team>
+        </division>
+      </conference>
+    </teams>
+  </league>
+</teams>

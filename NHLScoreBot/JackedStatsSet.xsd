@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="JackedStatsSet" targetNamespace="http://tempuri.org/JackedStatsSet.xsd" xmlns:mstns="http://tempuri.org/JackedStatsSet.xsd" xmlns="http://tempuri.org/JackedStatsSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="JackedStatsSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="JackedStatsSet" msprop:Generator_UserDSName="JackedStatsSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PlayerStats" msprop:Generator_UserTableName="PlayerStats" msprop:Generator_RowEvArgName="PlayerStatsRowChangeEvent" msprop:Generator_TableVarName="tablePlayerStats" msprop:Generator_TablePropName="PlayerStats" msprop:Generator_RowDeletingName="PlayerStatsRowDeleting" msprop:Generator_RowChangingName="PlayerStatsRowChanging" msprop:Generator_RowDeletedName="PlayerStatsRowDeleted" msprop:Generator_RowEvHandlerName="PlayerStatsRowChangeEventHandler" msprop:Generator_TableClassName="PlayerStatsDataTable" msprop:Generator_RowChangedName="PlayerStatsRowChanged" msprop:Generator_RowClassName="PlayerStatsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JackedPlayer_ID" msprop:Generator_ColumnVarNameInTable="columnJackedPlayer_ID" msprop:Generator_ColumnPropNameInRow="JackedPlayer_ID" msprop:Generator_ColumnPropNameInTable="JackedPlayer_IDColumn" msprop:Generator_UserColumnName="JackedPlayer_ID" type="xs:int" />
+              <xs:element name="Goals" msprop:Generator_ColumnVarNameInTable="columnGoals" msprop:Generator_ColumnPropNameInRow="Goals" msprop:Generator_ColumnPropNameInTable="GoalsColumn" msprop:Generator_UserColumnName="Goals" type="xs:int" minOccurs="0" />
+              <xs:element name="Assists" msprop:Generator_ColumnVarNameInTable="columnAssists" msprop:Generator_ColumnPropNameInRow="Assists" msprop:Generator_ColumnPropNameInTable="AssistsColumn" msprop:Generator_UserColumnName="Assists" type="xs:int" minOccurs="0" />
+              <xs:element name="SOG" msprop:Generator_ColumnVarNameInTable="columnSOG" msprop:Generator_ColumnPropNameInRow="SOG" msprop:Generator_ColumnPropNameInTable="SOGColumn" msprop:Generator_UserColumnName="SOG" type="xs:int" minOccurs="0" />
+              <xs:element name="Hits" msprop:Generator_ColumnVarNameInTable="columnHits" msprop:Generator_ColumnPropNameInRow="Hits" msprop:Generator_ColumnPropNameInTable="HitsColumn" msprop:Generator_UserColumnName="Hits" type="xs:int" minOccurs="0" />
+              <xs:element name="PlusMinus" msprop:Generator_ColumnVarNameInTable="columnPlusMinus" msprop:Generator_ColumnPropNameInRow="PlusMinus" msprop:Generator_ColumnPropNameInTable="PlusMinusColumn" msprop:Generator_UserColumnName="PlusMinus" type="xs:int" minOccurs="0" />
+              <xs:element name="Penalties" msprop:Generator_ColumnVarNameInTable="columnPenalties" msprop:Generator_ColumnPropNameInRow="Penalties" msprop:Generator_ColumnPropNameInTable="PenaltiesColumn" msprop:Generator_UserColumnName="Penalties" type="xs:int" minOccurs="0" />
+              <xs:element name="PIM" msprop:Generator_ColumnVarNameInTable="columnPIM" msprop:Generator_ColumnPropNameInRow="PIM" msprop:Generator_ColumnPropNameInTable="PIMColumn" msprop:Generator_UserColumnName="PIM" type="xs:int" minOccurs="0" />
+              <xs:element name="FOW" msprop:Generator_ColumnVarNameInTable="columnFOW" msprop:Generator_ColumnPropNameInRow="FOW" msprop:Generator_ColumnPropNameInTable="FOWColumn" msprop:Generator_UserColumnName="FOW" type="xs:int" minOccurs="0" />
+              <xs:element name="ShotsFaced" msprop:Generator_ColumnVarNameInTable="columnShotsFaced" msprop:Generator_ColumnPropNameInRow="ShotsFaced" msprop:Generator_ColumnPropNameInTable="ShotsFacedColumn" msprop:Generator_UserColumnName="ShotsFaced" type="xs:int" minOccurs="0" />
+              <xs:element name="Saves" msprop:Generator_ColumnVarNameInTable="columnSaves" msprop:Generator_ColumnPropNameInRow="Saves" msprop:Generator_ColumnPropNameInTable="SavesColumn" msprop:Generator_UserColumnName="Saves" type="xs:int" minOccurs="0" />
+              <xs:element name="SavePercent" msprop:Generator_ColumnVarNameInTable="columnSavePercent" msprop:Generator_ColumnPropNameInRow="SavePercent" msprop:Generator_ColumnPropNameInTable="SavePercentColumn" msprop:Generator_UserColumnName="SavePercent" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TOI" msprop:Generator_ColumnVarNameInTable="columnTOI" msprop:Generator_ColumnPropNameInRow="TOI" msprop:Generator_ColumnPropNameInTable="TOIColumn" msprop:Generator_UserColumnName="TOI" type="xs:int" minOccurs="0" />
+              <xs:element name="Number" msprop:Generator_ColumnVarNameInTable="columnNumber" msprop:Generator_ColumnPropNameInRow="Number" msprop:Generator_ColumnPropNameInTable="NumberColumn" msprop:Generator_UserColumnName="Number" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Players" msprop:Generator_UserTableName="Players" msprop:Generator_RowEvArgName="PlayersRowChangeEvent" msprop:Generator_TableVarName="tablePlayers" msprop:Generator_TablePropName="Players" msprop:Generator_RowDeletingName="PlayersRowDeleting" msprop:Generator_RowChangingName="PlayersRowChanging" msprop:Generator_RowDeletedName="PlayersRowDeleted" msprop:Generator_RowEvHandlerName="PlayersRowChangeEventHandler" msprop:Generator_TableClassName="PlayersDataTable" msprop:Generator_RowChangedName="PlayersRowChanged" msprop:Generator_RowClassName="PlayersRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JackedPlayer_ID" msprop:Generator_ColumnVarNameInTable="columnJackedPlayer_ID" msprop:Generator_ColumnPropNameInRow="JackedPlayer_ID" msprop:Generator_ColumnPropNameInTable="JackedPlayer_IDColumn" msprop:Generator_UserColumnName="JackedPlayer_ID" type="xs:int" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Position" msprop:Generator_ColumnVarNameInTable="columnPosition" msprop:Generator_ColumnPropNameInRow="Position" msprop:Generator_ColumnPropNameInTable="PositionColumn" msprop:Generator_UserColumnName="Position" type="xs:string" minOccurs="0" />
+              <xs:element name="Number" msprop:Generator_ColumnVarNameInTable="columnNumber" msprop:Generator_ColumnPropNameInRow="Number" msprop:Generator_ColumnPropNameInTable="NumberColumn" msprop:Generator_UserColumnName="Number" type="xs:string" minOccurs="0" />
+              <xs:element name="Scratch" msprop:Generator_ColumnVarNameInTable="columnScratch" msprop:Generator_ColumnPropNameInRow="Scratch" msprop:Generator_ColumnPropNameInTable="ScratchColumn" msprop:Generator_UserColumnName="Scratch" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="DataTable1Key1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:PlayerStats" />
+      <xs:field xpath="mstns:JackedPlayer_ID" />
+    </xs:unique>
+    <xs:unique name="PlayersKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Players" />
+      <xs:field xpath="mstns:JackedPlayer_ID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="PlayerStats_Players" msdata:parent="Players" msdata:child="PlayerStats" msdata:parentkey="JackedPlayer_ID" msdata:childkey="JackedPlayer_ID" msprop:Generator_UserChildTable="PlayerStats" msprop:Generator_ChildPropName="GetPlayerStatsRows" msprop:Generator_UserRelationName="PlayerStats_Players" msprop:Generator_RelationVarName="relationPlayerStats_Players" msprop:Generator_UserParentTable="Players" msprop:Generator_ParentPropName="PlayersRow" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

@@ -1,0 +1,46 @@
+D:\nhlbot\NHLScoreBot\bin\Debug\NHLScoreBot.exe.config
+D:\nhlbot\NHLScoreBot\bin\Debug\nhlstatsdb
+D:\nhlbot\NHLScoreBot\bin\Debug\teams.xml
+D:\nhlbot\NHLScoreBot\bin\Debug\NHLScoreBot.exe
+D:\nhlbot\NHLScoreBot\bin\Debug\NHLScoreBot.pdb
+D:\nhlbot\NHLScoreBot\bin\Debug\DateTimeEnglishParser.dll
+D:\nhlbot\NHLScoreBot\bin\Debug\Meebey.SmartIrc4net.dll
+D:\nhlbot\NHLScoreBot\bin\Debug\Newtonsoft.Json.dll
+D:\nhlbot\NHLScoreBot\bin\Debug\System.Data.SQLite.dll
+D:\nhlbot\NHLScoreBot\bin\Debug\System.Data.SQLite.Linq.dll
+D:\nhlbot\NHLScoreBot\bin\Debug\System.Data.SQLite.xml
+D:\nhlbot\NHLScoreBot\obj\Debug\NHLScoreBot.exe
+D:\nhlbot\NHLScoreBot\obj\Debug\NHLScoreBot.pdb
+D:\nhlbot\NHLScoreBot\obj\Debug\NHLScoreBot.csprojResolveAssemblyReference.cache
+D:\nhlbot - Copy - STATS work\NHLScoreBot\bin\Debug\NHLScoreBot.exe.config
+D:\nhlbot - Copy - STATS work\NHLScoreBot\bin\Debug\nhlstatsdb
+D:\nhlbot - Copy - STATS work\NHLScoreBot\bin\Debug\teams.xml
+D:\nhlbot - Copy - STATS work\NHLScoreBot\bin\Debug\NHLScoreBot.exe
+D:\nhlbot - Copy - STATS work\NHLScoreBot\bin\Debug\NHLScoreBot.pdb
+D:\nhlbot - Copy - STATS work\NHLScoreBot\bin\Debug\DateTimeEnglishParser.dll
+D:\nhlbot - Copy - STATS work\NHLScoreBot\bin\Debug\Meebey.SmartIrc4net.dll
+D:\nhlbot - Copy - STATS work\NHLScoreBot\bin\Debug\Newtonsoft.Json.dll
+D:\nhlbot - Copy - STATS work\NHLScoreBot\bin\Debug\System.Data.SQLite.dll
+D:\nhlbot - Copy - STATS work\NHLScoreBot\bin\Debug\System.Data.SQLite.Linq.dll
+D:\nhlbot - Copy - STATS work\NHLScoreBot\bin\Debug\System.Data.SQLite.xml
+D:\nhlbot - Copy - STATS work\NHLScoreBot\obj\Debug\NHLScoreBot.csprojResolveAssemblyReference.cache
+D:\nhlbot - Copy - STATS work\NHLScoreBot\obj\Debug\NHLScoreBot.exe
+D:\nhlbot - Copy - STATS work\NHLScoreBot\obj\Debug\NHLScoreBot.pdb
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\bin\Debug\teams.xml
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\bin\Debug\NHLScoreBot.exe.config
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\bin\Debug\NHLScoreBot.exe
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\bin\Debug\NHLScoreBot.pdb
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\bin\Debug\DateTimeEnglishParser.dll
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\bin\Debug\Meebey.SmartIrc4net.dll
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\bin\Debug\Newtonsoft.Json.dll
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\bin\Debug\System.Data.SQLite.dll
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\bin\Debug\System.Data.SQLite.xml
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\obj\Debug\NHLScoreBot.exe
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\obj\Debug\NHLScoreBot.pdb
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\bin\Debug\nhlstatsdb.old
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\bin\Debug\NHLScoreBot.exe.manifest
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\bin\Debug\NHLScoreBot.application
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\obj\Debug\NHLScoreBot.csprojResolveAssemblyReference.cache
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\obj\Debug\NHLScoreBot.exe.manifest
+D:\Kevin_Weekes_2016-2017 - Copy\NHLScoreBot\obj\Debug\NHLScoreBot.application
